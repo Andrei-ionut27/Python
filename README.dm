@@ -1,1 +1,1 @@
-Instructiuni PyCharm
+Instructiuni Python
