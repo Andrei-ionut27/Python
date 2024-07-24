@@ -1,6 +1,5 @@
 # Variabila = zona din memorie care tine date
 # Variabila = este o cutiuta in care punem valori
-
 # am declarat si initializat variabila marca
 marca_masina = 'Volvo'
 model_masina = 'XC 60'
