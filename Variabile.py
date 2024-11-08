@@ -21,6 +21,6 @@ print(f'Este modelul : {model_masina}')
 
 nume = 'Florea'
 prenume = 'Andrei'
-varsta = '32'
+varsta = '33'
 print(prenume + ' ' + nume)
 print(f'{prenume} {nume} si are varsta de {varsta}')
